@@ -1,0 +1,7 @@
+__pycache__/
+build/
+get_complaints_venv/
+get_issue_complaints.spec
+# ignore outputs
+complaints*
+
